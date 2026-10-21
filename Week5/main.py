@@ -1,14 +1,14 @@
-# 1
-# num = int(input("number (n): "))
-# count = 0
+1
+num = int(input("number (n): "))
+count = 0
 
-# if num == 0:
-#     count = 1
-# else:
-#     while num > 0:
-#         count += 1
-#         num = num // 10
-# print(count)
+if num == 0:
+    count = 1
+else:
+    while num > 0:
+        count += 1
+        num = num // 10
+print(count)
 
 
 # 2
