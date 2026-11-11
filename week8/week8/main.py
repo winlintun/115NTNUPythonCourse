@@ -170,3 +170,4 @@ for i in range(row, -1, -1): # row
         else:
             line += "*"
     print(line)
+    
